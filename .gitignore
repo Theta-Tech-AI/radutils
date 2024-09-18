@@ -166,3 +166,4 @@ cython_debug/
 *.dcm
 *.nrrd
 *.nii
+*.zip
