@@ -1,0 +1,5 @@
+nilearn
+pydicom
+pyplastimatch
+setuptools
+monailabel
